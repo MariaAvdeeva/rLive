@@ -1,0 +1,8 @@
+---
+title: "Basic Description"
+author: "Maria Avdeeva"
+date: '18 июля 2017 г '
+output: html_document
+---
+
+Here's some stuff to start things up
