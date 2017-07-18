@@ -1,0 +1,8 @@
+---
+title: "otherfile"
+author: "Maria Avdeeva"
+date: '18 июля 2017 г '
+output: html_document
+---
+
+something else to add
